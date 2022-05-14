@@ -10,5 +10,4 @@
 
 
 ![](https://github.com/YanhaoXu/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://github.com/YanhaoXu/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
