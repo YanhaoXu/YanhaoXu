@@ -3,7 +3,7 @@
 + 二次元圈浅滩划水，NS 玩家。
 + MBTI人格是 [INFJ-T](https://www.16personalities.com/ch/infj-%E4%BA%BA%E6%A0%BC)
 + 喜欢猫，支持领养代替购买。以后一定会养猫的。
-+ 📫 在寻找新的工作机会（中，日），可以联系我 [yanhao.xu@outlook.com](mailto:yanhao.xu@outlook.com)。
++ 📫可以联系我 [yanhao.xu@outlook.com](mailto:yanhao.xu@outlook.com)。
 <br/>
 
 > 以下内容通过 <a href="https://github.com/YanhaoXu/github-stats" target="_blank">YanhaoXu/github-stats</a> 每天自动更新。
