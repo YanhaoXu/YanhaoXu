@@ -8,6 +8,5 @@
 
 > 以下内容通过 <a href="https://github.com/YanhaoXu/github-stats" target="_blank">YanhaoXu/github-stats</a> 每天自动更新。
 
-
-![](https://github.com/YanhaoXu/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/YanhaoXu/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/YanhaoXu/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/YanhaoXu/github-stats/blob/master/generated/languages.svg)
