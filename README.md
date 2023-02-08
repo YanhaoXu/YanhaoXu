@@ -10,3 +10,13 @@
 
 ![](https://github.com/YanhaoXu/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/YanhaoXu/github-stats/blob/master/generated/languages.svg)
+---
+- [我的徽章 Credly](https://www.credly.com/users/yanhao-xu/badges)
+
+<p align=""> 
+  <img width="144" height="144" src="https://images.credly.com/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" alt="trophy" />
+  <img width="144" height="144" src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="trophy" />
+  <img width="144" height="144" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="trophy" />
+  <img width="144" height="144" src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="trophy" />
+  <img width="144" height="144" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="trophy" />
+</p>
